@@ -1,0 +1,14 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 缓存
+__pycache__/
+*.pyc
+
+# 测试报告
+allure-results/
+allure-report/
+
+# idea配置
+.idea/
